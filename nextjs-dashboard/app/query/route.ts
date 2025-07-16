@@ -1,4 +1,4 @@
-// import postgres from 'postgres';
+// import bycrypt from 'bycryptjs';
 
 // const sql = postgres(process.env.POSTGRES_URL!, { ssl: 'require' });
 
